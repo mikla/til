@@ -1,4 +1,8 @@
 
+18.12.2019
+
+[Scala.js 1.0.0-RC2](https://www.scala-js.org/news/2019/12/13/announcing-scalajs-1.0.0-RC2/)
+
 16.12.2019
 
 [Scala's Map.map vs. Map.mapValues](https://blog.bruchez.name/2013/02/mapmap-vs-mapmapvalues.html)
