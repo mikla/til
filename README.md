@@ -2,6 +2,10 @@
 
 [cat | grep](https://www.youtube.com/watch?v=82NBMvx6vFY)
 
+18.12.2019
+
+[Scala.js 1.0.0-RC2](https://www.scala-js.org/news/2019/12/13/announcing-scalajs-1.0.0-RC2/)
+
 16.12.2019
 
 [John Carmack: Thoughts on Haskell](http://functionaltalks.org/2013/08/26/john-carmack-thoughts-on-haskell/)
