@@ -1,3 +1,7 @@
+04.01.2020
+
+[Road to Scala 3](https://www.scala-lang.org/2019/12/18/road-to-scala-3.html)
+
 03.01.2020
 
 [cat | grep](https://www.youtube.com/watch?v=82NBMvx6vFY)
