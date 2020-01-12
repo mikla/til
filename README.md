@@ -1,3 +1,6 @@
+12.01.2020
+[GraphQL vs. Rest API](https://medium.com/swlh/graphql-vs-rest-api-architecture-3b95a77512f5)
+
 04.01.2020
 
 [Road to Scala 3](https://www.scala-lang.org/2019/12/18/road-to-scala-3.html)
