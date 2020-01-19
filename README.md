@@ -1,3 +1,6 @@
+19.01.2020
+[Introduction to Apache Kafka by James Ward](https://www.youtube.com/watch?v=UEg40Te8pnE)
+
 12.01.2020
 
 [GraphQL vs. Rest API](https://medium.com/swlh/graphql-vs-rest-api-architecture-3b95a77512f5)
