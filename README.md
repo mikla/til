@@ -1,4 +1,5 @@
 19.01.2020
+
 [Introduction to Apache Kafka by James Ward](https://www.youtube.com/watch?v=UEg40Te8pnE)
 
 12.01.2020
