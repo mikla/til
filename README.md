@@ -1,3 +1,7 @@
+30.01.2020
+
+[Thread Dump Analysis for IBM JVM - Part1](https://www.youtube.com/watch?v=YQgmF8I-zhk)
+
 19.01.2020
 
 [Fabio Labella—How do Fibers Work? A Peek Under the Hood](https://www.youtube.com/watch?v=x5_MmZVLiSM)
