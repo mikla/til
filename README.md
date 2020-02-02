@@ -1,3 +1,7 @@
+01.02.2020
+
+[01 - History of Databases (CMU Databases / Spring 2020)](https://www.youtube.com/watch?v=SdW5RKUboKc)
+
 30.01.2020
 
 [Thread Dump Analysis for IBM JVM - Part1](https://www.youtube.com/watch?v=YQgmF8I-zhk)
