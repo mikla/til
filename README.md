@@ -1,5 +1,6 @@
 01.02.2020
 
+[Correlation IDs in Scala using Monix](https://blog.softwaremill.com/correlation-ids-in-scala-using-monix-3aa11783db81)
 [01 - History of Databases (CMU Databases / Spring 2020)](https://www.youtube.com/watch?v=SdW5RKUboKc)
 
 30.01.2020
