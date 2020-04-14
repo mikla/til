@@ -1,3 +1,7 @@
+14.04.2020
+
+[The Scala 2.12 and 2.13 Inliner and Optimizer](https://www.lightbend.com/blog/scala-inliner-optimizer)
+
 01.02.2020
 
 [Correlation IDs in Scala using Monix](https://blog.softwaremill.com/correlation-ids-in-scala-using-monix-3aa11783db81)
