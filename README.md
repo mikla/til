@@ -1,3 +1,7 @@
+04.05.2020
+
+[Functional programming with graphs](https://futtetennismo.me/posts/algorithms-and-data-structures/2017-12-08-functional-graphs.html)
+
 14.04.2020
 
 [The Scala 2.12 and 2.13 Inliner and Optimizer](https://www.lightbend.com/blog/scala-inliner-optimizer)
