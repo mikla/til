@@ -1,3 +1,6 @@
+22.05.2020
+[Does Kafka really guarantee the order of messages?](https://blog.softwaremill.com/does-kafka-really-guarantee-the-order-of-messages-3ca849fd19d2)
+
 04.05.2020
 
 [Functional programming with graphs](https://futtetennismo.me/posts/algorithms-and-data-structures/2017-12-08-functional-graphs.html)
